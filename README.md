@@ -7,7 +7,6 @@
 Here are some ideas to get you started: -->
 
 - Estudante de Análise e desenvolvimento de Sistemas <br> 
-- Sou um estudante apaixonado por tecnologia. Gosto do poder que a tecnologia tem na resolução de problemas da vida real.
 
 <div align="center">
   <a href="https://github.com/VictorM20">
