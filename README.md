@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started: -->
 
- Sou um desenvolvedor de software comprometido em escrever código de qualidade e eficiente, sempre em busca de oportunidades para aplicar minhas habilidades em projetos desafiadores e de impacto. Estou sempre aprendendo e buscando novas tecnologias para melhorar meu desempenho e contribuir com a comunidade de desenvolvedores <br> <br>
+ <!--Sou um desenvolvedor de software comprometido em escrever código de qualidade e eficiente, sempre em busca de oportunidades para aplicar minhas habilidades em projetos desafiadores e de impacto. Estou sempre aprendendo e buscando novas tecnologias para melhorar meu desempenho e contribuir com a comunidade de desenvolvedores <br> <br> -->
 
 <div align="center">
   <a href="https://github.com/VictorM20">
